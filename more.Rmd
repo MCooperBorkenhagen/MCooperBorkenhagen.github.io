@@ -1,5 +1,0 @@
----
-title: "more"
-output: html_document
----
-# I like other things too

@@ -1,12 +1,18 @@
 ---
-title: "Good to see you"
+title: "Matt Cooper Borkenhagen"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+`[cooperborken at wisc.edu]`  
 
-Welcome to my website. I am a graduate student in Psychology at the University of Wisconsin - Madison, and I study language, learning, mostly in the context of reading development. I am interested in how kids develop reading ability, the sources of knowledge that underlie that development, and what we can do to support that development through intelligent changes in the environment. This includes formal educational means, like through instruction, but also less formal means, like through choosing books to read to kids, or the language that we use to interact with them.
+#### My name is Matt and I am a language researcher. Currently, I am a graduate student in Psychology at the University of Wisconsin - Madison, where I study language and learning, mostly in the context of reading development. I work in the [Language and Cognitive Neuroscience Laboratory](http://lcnl.wisc.edu) with Mark Seidenberg. I am interested in how kids develop reading ability, the sources of knowledge that underlie that development, and what we can do to support it through intelligent changes in the environment. This includes more formal educational experiences, like instruction, but also less formal ones, like through choosing books to read to and with kids, and the language that we use to interact with them. 
+ 
+#### In addition to doing research on learning, language, and reading, I also try to communicate about my science in educational contexts. See [here](https://psyarxiv.com/sq4fr/) and [here](./data/seidenberg_etal_2020_rlj.pdf) for more of that. I've had the great opportunity to be a [Fellow in the Interdisciplinary Training Program in Education Sciences](https://itp.wceruw.org) at UW-Madison, which is a program dedicated to the education sciences, which in my time there has focused on issues of translation in educational research.
 
-![](./data/me.jpg)
+###   [**research**](./research.html) | [**cv**](./data/cv-mcb.pdf) | [**github**](https://github.com/MCooperBorkenhagen)  
+
+
+![](./data/me.jpeg)

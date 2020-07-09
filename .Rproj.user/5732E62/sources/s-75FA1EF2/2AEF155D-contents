@@ -1,0 +1,15 @@
+name: "Matt Cooper Borkenhagen"
+output_dir: "."
+navbar:
+  title: "MCB"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "More about me"
+      href: more.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css

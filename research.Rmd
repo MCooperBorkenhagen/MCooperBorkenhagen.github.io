@@ -1,0 +1,5 @@
+---
+title: "more"
+output: html_document
+---
+# I investigate aspects of experience that matter in cognitive development, especially as it relates to reading. My interests in these aspects of learning relate back to my experiences as an elementary school teacher for children with language based learning differences, prior to starting work in psychology.
