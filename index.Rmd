@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
  
 #### In addition to doing research on learning, language, and reading, I also try to communicate about my science in educational contexts. See [here](https://psyarxiv.com/sq4fr/) and [here](./data/seidenberg_etal_2020_rlj.pdf) for more of that. I've had the great opportunity to be a [Fellow in the Interdisciplinary Training Program in Education Sciences](https://itp.wceruw.org) at UW-Madison, which is a program dedicated to the education sciences, which in my time there has focused on issues of translation in educational research.
 
-###   [**research**](./research.html) | [**cv**](./data/cv-mcb.pdf) | [**github**](https://github.com/MCooperBorkenhagen)  
+###   [**research**](./research.html) | [**cv**](./data/cv-mcb.pdf) | [**github**](https://github.com/MCooperBorkenhagen) | [**twitter**](https://twitter.com/CoopBork)
 
 
 ![](./data/me.jpeg)

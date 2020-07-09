@@ -5,8 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "More about me"
-      href: more.html
+
 
 output:
   html_document:
