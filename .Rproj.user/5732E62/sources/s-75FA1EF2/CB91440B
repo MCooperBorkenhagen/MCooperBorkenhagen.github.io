@@ -3,7 +3,7 @@
     "path": "~/Documents/website/MCooperBorkenhagen.github.io/research.Rmd",
     "project_path": "research.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1812186206",
     "contents": "",
     "dirty": false,
     "created": 1594233186663.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "17,138",
+        "cursorPosition": "17,143",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594354048,
+    "lastKnownWriteTime": 1594398070,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594354048201,
+    "last_content_update": 1594398070904,
     "read_only": false,
     "read_only_alternatives": []
 }

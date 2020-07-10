@@ -13,6 +13,6 @@ Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning i
 <br>
 
 ### **Under review**
-Lewis, M., Borkenhagen, M. C., Converse, E., Lupyan, G., & Seidenberg, M. S. (2020, March 30). What might books be teaching young children about gender? [preprint](https://psyarxiv.com/ntgfe/)
+Lewis, M., Borkenhagen, M. C., Converse, E., Lupyan, G., & Seidenberg, M. S. (2020, March 30). What might books be teaching young children about gender? [`[preprint]`](https://psyarxiv.com/ntgfe/)
 
-Sen, A., Cox, C. R., Borkenhagen, M. C., Seidenberg, M. S., & Zhu, J. (2020, July 2). Learning to read through machine teaching. [preprint](https://arxiv.org/pdf/2006.16470.pdf)
+Sen, A., Cox, C. R., Borkenhagen, M. C., Seidenberg, M. S., & Zhu, J. (2020, July 2). Learning to read through machine teaching. [`[preprint]`](https://arxiv.org/pdf/2006.16470.pdf)
