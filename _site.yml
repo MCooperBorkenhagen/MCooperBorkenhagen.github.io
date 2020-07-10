@@ -1,7 +1,7 @@
 name: "Matt Cooper Borkenhagen"
 output_dir: "."
 navbar:
-  title: "MCB"
+  title: "➤"
   left:
     - text: "Home"
       href: index.html
