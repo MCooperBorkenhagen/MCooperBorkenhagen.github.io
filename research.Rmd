@@ -6,7 +6,8 @@ output: html_document
 ### **Publications**
 Seidenberg, M. S., Borkenhagen, M. C., & Kearns, D. M. (in press). Lost in translation? Challenges in connecting reading science and educational practice. _Reading Research Quarterly_. [`[preprint]`](https://psyarxiv.com/sq4fr/)
 
-Seidenberg, M. S., & Borkenhagen, M. C. (2020). Reading science and educational practice: Some tenets for teachers. _The Reading League Journal, 1_(1), 7-11. [`[pdf]`](./data/seidenberg_etal_2020_rlj.pdf)
+Seidenberg, M. S., & Borkenhagen, M. C. (2020). Reading science and educational practice: Some tenets for teachers. _The Reading League Journal, 1_(1), 7-11. 
+<!-- [`[pdf]`](./data/seidenberg_etal_2020_rlj.pdf) -->
 
 Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning in experience-limited domains: Generalization beyond the WUG test. In A.K. Goel, C.M Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society_ (pp. 1566-1571). Montreal, QB. Cognitive Science Society. [`[pdf]`](https://cogsci.mindmodeling.org/2019/papers/0281/0281.pdf)
 

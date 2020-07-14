@@ -1,25 +1,25 @@
 {
-    "id": "CB91440B",
-    "path": "~/Documents/website/MCooperBorkenhagen.github.io/research.Rmd",
-    "project_path": "research.Rmd",
+    "id": "024B33A5",
+    "path": "~/Documents/website/MCooperBorkenhagen.github.io/more.Rmd",
+    "project_path": "more.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1594233186663.0,
+    "created": 1594745568410.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "11,0",
+        "cursorPosition": "5,243",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594398070,
+    "lastKnownWriteTime": 1594745874,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594398070904,
+    "last_content_update": 1594745874098,
     "read_only": false,
     "read_only_alternatives": []
 }
