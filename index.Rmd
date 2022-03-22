@@ -19,4 +19,4 @@ In addition to doing research on learning, language, and reading, I also try to 
 ###   [**research**](./research.html) | [**cv**](./data/cv-mcb.pdf) | [**github**](https://github.com/MCooperBorkenhagen) | [**twitter**](https://twitter.com/CoopBork)
 
 
-![](./data/me.jpeg)
+![](./data/mcb.jpeg)

@@ -4,9 +4,13 @@ output: html_document
 ---
 -------------------
 ### **Publications**
-Seidenberg, M. S., Borkenhagen, M. C., & Kearns, D. M. (in press). Lost in translation? Challenges in connecting reading science and educational practice. _Reading Research Quarterly_. [`[preprint]`](https://psyarxiv.com/sq4fr/)
+Wang, T., Cooper Borkenhagen, M., Barker, M., & Seidenberg, M.S. (2022) Meanings within meanings: Skilled readers activate irrelevant meanings of radicals and phonetics in Chinese. _Reading and Writing_.
 
-Seidenberg, M. S., & Borkenhagen, M. C. (2020). Reading science and educational practice: Some tenets for teachers. _The Reading League Journal, 1_(1), 7-11. 
+Lewis, M., Cooper Borkenhagen, M., Converse, E., Lupyan, G., & Seidenberg, M. S. (2022). What might books be teaching young children about gender? _Psychological Science, 33_(1), 1 - 15.
+
+Seidenberg, M. S., Borkenhagen, M. C., & Kearns, D. M. (2020). Lost in translation? Challenges in connecting reading science and educational practice. _Reading Research Quarterly, 55_(S1), S119-S130.
+
+Seidenberg, M. S., & Borkenhagen, M. C. (2020). Reading science and educational practice: Some tenets for teachers. _The Reading League Journal, 1_(1), 7-11.
 <!-- [`[pdf]`](./data/seidenberg_etal_2020_rlj.pdf) -->
 
 Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning in experience-limited domains: Generalization beyond the WUG test. In A.K. Goel, C.M Seifert, & C. Freksa (Eds.), _Proceedings of the 41st Annual Conference of the Cognitive Science Society_ (pp. 1566-1571). Montreal, QB. Cognitive Science Society. [`[pdf]`](https://cogsci.mindmodeling.org/2019/papers/0281/0281.pdf)
@@ -14,6 +18,9 @@ Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning i
 <br>
 
 ### **Under review**
-Lewis, M., Borkenhagen, M. C., Converse, E., Lupyan, G., & Seidenberg, M. S. (2020, March 30). What might books be teaching young children about gender? [`[preprint]`](https://psyarxiv.com/ntgfe/)
-
 Sen, A., Cox, C. R., Borkenhagen, M. C., Seidenberg, M. S., & Zhu, J. (2020, July 2). Learning to read through machine teaching. [`[preprint]`](https://arxiv.org/pdf/2006.16470.pdf)
+
+Cooper Borkenhagen, M., Schilling, L., & Seidenberg, M. S. (in prep). Special words: The contents of popular sight word inventories and their instructional framing.
+
+Cooper Borkenhagen, M., Lewis., M., Borman, M., Converse, E., & Seidenberg, M. S. (in
+prep). The Wisconsin Childrens' Book Corpus: A corpus of popular American child-directed texts.
