@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Matt Cooper Borkenhagen"
 output: html_document
 ---
 
@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 `[cooperborken at wisc.edu]`  
 
-My name is Matt and I am a language researcher. I am an incoming Assistant Professor at Florida State University in in the Reading Education Area of the School for Teacher Education and the Florida Center for Reading Research. I did graduate work in Psychology at the University of Wisconsin - Madison, where I studied language and learning, mostly in the context of reading development. At UW-Madison I worked in the [Language and Cognitive Neuroscience Laboratory](http://lcnl.wisc.edu) with Mark Seidenberg.
+My name is Matt and I am a language researcher. I am an incoming Assistant Professor at Florida State University in the Reading Education Area of the School for Teacher Education and the Florida Center for Reading Research. I did graduate work in Psychology at the University of Wisconsin - Madison, where I studied language and learning, mostly in the context of reading development. At UW-Madison I worked in the [Language and Cognitive Neuroscience Laboratory](http://lcnl.wisc.edu) with Mark Seidenberg.
   
 I am interested in how kids develop reading ability, the sources of knowledge that underlie that development, and what we can do to support it through intelligent changes in the environment. This includes more formal educational experiences, like instruction, but also less formal ones, like through choosing books to read with kids. My interests in learning relate back to my experiences as an elementary school teacher for kids with reading challenges, which was my profession prior to starting work in psychology.
   
