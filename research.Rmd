@@ -1,10 +1,12 @@
 ---
-title: ""
+title: "Research"
 output: html_document
 ---
 -------------------
 ### **Publications**
-Wang, T., Cooper Borkenhagen, M., Barker, M., & Seidenberg, M.S. (2022) Meanings within meanings: Skilled readers activate irrelevant meanings of radicals and phonetics in Chinese. _Reading and Writing_. [`[pdf]`]()
+Rigobon, V. M., Gutiérrez, N., Abes, D. R., Edwards, A. A., Marencin, N., Cooper Borkenhagen, M. J., Steacy, L. M., & Compton, D. L. (in press). Modeling Item-Level Spelling Variance in Adults: Providing Further Insights into Lexical Quality. _Scientific Studies of Reading_.
+
+Wang, T., Cooper Borkenhagen, M., Barker, M., & Seidenberg, M.S. (2022) Meanings within meanings: Skilled readers activate irrelevant meanings of radicals and phonetics in Chinese. _Reading and Writing_. [`[pdf]`](https://link.springer.com/content/pdf/10.1007/s11145-022-10260-y.pdf?pdf=button)
 
 Lewis, M., Cooper Borkenhagen, M., Converse, E., Lupyan, G., & Seidenberg, M. S. (2022). What might books be teaching young children about gender? _Psychological Science, 33_(1), 1 - 15.
 
@@ -17,10 +19,12 @@ Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning i
 
 <br>
 
-### **In preparation**
+### **Under review**
+Cooper Borkenhagen, M., Lewis., M., Borman, M., Converse, E., & Seidenberg, M. S. (under review). Words in child-directed texts are different than those in child-directed speech.
+
+### **Upcoming**
 Sen, A., Cox, C. R., Borkenhagen, M. C., Seidenberg, M. S., & Zhu, J. (2020, July 2). Learning to read through machine teaching. [`[preprint]`](https://arxiv.org/pdf/2006.16470.pdf)
 
 Cooper Borkenhagen, M., Schilling, L., & Seidenberg, M. S. (in prep). Special words: The contents of popular sight word inventories and their instructional framing.
 
-Cooper Borkenhagen, M., Lewis., M., Borman, M., Converse, E., & Seidenberg, M. S. (in
-prep). The Wisconsin Childrens' Book Corpus: A corpus of popular American child-directed texts.
+
