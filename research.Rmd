@@ -22,6 +22,8 @@ Cox, C., Borkenhagen, M. C., & Seidenberg, M. S. (2019) Efficiency of learning i
 ### **Under review**
 Cooper Borkenhagen, M., Lewis., M., Borman, M., Converse, E., & Seidenberg, M. S. (under review). Words in child-directed texts are different than those in child-directed speech.
 
+<br>
+
 ### **Upcoming**
 Sen, A., Cox, C. R., Borkenhagen, M. C., Seidenberg, M. S., & Zhu, J. (2020, July 2). Learning to read through machine teaching. [`[preprint]`](https://arxiv.org/pdf/2006.16470.pdf)
 
